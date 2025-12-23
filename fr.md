@@ -1,3 +1,4 @@
+**[See the english version](./index)**
 # Politique de Confidentialité
 
 **Dernière mise à jour :** 22 décembre 2025
