@@ -1,4 +1,10 @@
-**[Voir la version en Français](./fr)**
+**Privacy Policy / Politique de Confidentialité**
+* [English](./)
+* [Français](./fr)
+
+**Terms of Service / Conditions d'Utilisation**
+* [English](./terms)
+* [Français](./terms-fr)
 # Privacy Policy
 
 **Last updated:** December 22, 2025
