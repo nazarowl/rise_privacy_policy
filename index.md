@@ -1,3 +1,4 @@
+**[Voir la version en Français](./fr)**
 # Privacy Policy
 
 **Last updated:** December 22, 2025
